@@ -18,11 +18,11 @@ Superstore Sales Dataset (Kaggle). Link: [Kaggle Sample Superstore Dataset](http
 ---
 
 ## 🚀 Approach
-1. Framed the questions the CEO and CMO would ask ([docs/task1_business_questions.md](docs/task1_business_questions.md))
-2. Cleaned and explored the data ([notebooks/eda.py](notebooks/eda.py))
-3. Chose the best visual for each question ([docs/task2_visual_choices.md](docs/task2_visual_choices.md))
-4. Built a CEO dashboard and a CMO dashboard ([dashboards/](dashboards/))
-5. Presented the findings in a video ([docs/task4_presentation_script.md](docs/task4_presentation_script.md))
+1. Framed the strategic questions the CEO and CMO would ask ([docs/task1_business_questions.md](docs/task1_business_questions.md))
+2. Cleaned and explored the data using automated scripts ([notebooks/eda.py](notebooks/eda.py))
+3. Chose the best visual layout for each executive query ([docs/task2_visual_choices.md](docs/task2_visual_choices.md))
+4. Built interactive, synchronized dashboard systems in Tableau ([dashboards/](dashboards/))
+
 
 ---
 
@@ -54,8 +54,6 @@ Superstore Sales Dataset (Kaggle). Link: [Kaggle Sample Superstore Dataset](http
 
 ---
 
-## 🎥 Presentation Video
-* **Executive Summary Walkthrough:** [Watch the Presentation Video Link](https://youtube.com)
 
 ---
 
